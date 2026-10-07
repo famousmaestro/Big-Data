@@ -1,4 +1,5 @@
-
+Author : Abderrazzak Karoui
+Colab link :https://colab.research.google.com/drive/1j7O1ANhuDM6tTnLHjJBYx67VuZwA-3KM?usp=sharing
 # Books to Scrape - Web Scraper
 
 This repository contains a Python-based web scraper that extracts book details from the [Books to Scrape](https://books.toscrape.com/) sandbox website. It gathers information from all 50 pages of the website and saves the consolidated data into a structured CSV file.
