@@ -1,4 +1,4 @@
-```markdown
+
 # Books to Scrape - Web Scraper
 
 This repository contains a Python-based web scraper that extracts book details from the [Books to Scrape](https://books.toscrape.com/) sandbox website. It gathers information from all 50 pages of the website and saves the consolidated data into a structured CSV file.
@@ -40,4 +40,3 @@ This repository contains a Python-based web scraper that extracts book details f
    pip install requests beautifulsoup4 pandas
    ```
 3. Run the notebook or script to collect your dataset.
-```
