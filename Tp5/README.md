@@ -169,9 +169,9 @@ See the screenshots directory for:
 4. Consumer output.
 
 ## 10. Problems Encountered
-1- first of all i had a latest version of python and when i tried to test on it it didn't work because doesn't support that version of kafka in the newest versions so i choose to use python version of 3.11 and the problem is fixed 
-2- in terminal when i try to run a command and i do not write the command right as an example i forget a char from topic name json will reject this beacuse when you create the topic you should keep writing the same name char by char
-3-
+- First of all i had a latest version of python and when i tried to test on it it didn't work because doesn't support that version of kafka in the newest versions so i choose to use python version of 3.11 and the problem is fixed 
+
+- In terminal when i try to run a command and i do not write the command right as an example i forget a char from topic name json will reject this beacuse when you create the topic you should keep writing the same name char by char
 ## 11. Conclusion
 
 This practical work demonstrates how Apache Kafka
