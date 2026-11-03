@@ -23,10 +23,15 @@ incoming events to detect high-temperature conditions.
 
 Tp5/
 ├── screenshots/
+
 ├── compose.yaml
+
 ├── consumer.py
+
 ├── producer.py
+
 ├── README.md
+
 └── requirements.txt
 
 ## 4. Installation
