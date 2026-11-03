@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 def main():
-    file_path = "data/data.csv"
+    file_path = "Data/data.csv"
 
     print("_" * 50)
     print("      TP04 - Docker Data Processing")
