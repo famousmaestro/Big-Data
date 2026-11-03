@@ -7,7 +7,7 @@
 ## Project Structure
 ```text
 Tp4/
-├── data/
+├── Data/
 │   └── data.csv
 ├── Dockerfile
 ├── requirements.txt
