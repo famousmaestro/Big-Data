@@ -22,17 +22,12 @@ incoming events to detect high-temperature conditions.
 ## 3. Project Structure
 
 Tp5/
-├── screenshots/
-
 ├── compose.yaml
-
-├── consumer.py
-
+├── requirements.txt
 ├── producer.py
-
+├── consumer.py
 ├── README.md
-
-└── requirements.txt
+└── screenshots/
 
 ## 4. Installation
 
