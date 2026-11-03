@@ -1,0 +1,30 @@
+
+services:
+  processor1:
+    image: abderrazzak22/tp04-analysis:latest
+    container_name: tp04-processor1
+    volumes:
+      - ./data:/app/data:ro
+    networks:
+      - tp04-network
+
+  processor2:
+    image: abderrazzak22/tp04-analysis:latest
+    container_name: tp04-processor2
+    volumes:
+      - ./data:/app/data:ro
+    networks:
+      - tp04-network
+
+  processor3:
+    image: abderrazzak22/tp04-analysis:latest
+    container_name: tp04-processor3
+    volumes:
+      - ./data:/app/data:ro
+    networks:
+      - tp04-network
+
+networks:
+  tp04-network:
+    external: true
+    name: tp04-network
