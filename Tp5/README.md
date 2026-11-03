@@ -20,15 +20,17 @@ incoming events to detect high-temperature conditions.
 - JSON
 
 ## 3. Project Structure
-
+```text
 Tp5/
+│
 ├── compose.yaml
 ├── requirements.txt
 ├── producer.py
 ├── consumer.py
 ├── README.md
+│
 └── screenshots/
-
+```
 ## 4. Installation
 
 Clone the repository:
