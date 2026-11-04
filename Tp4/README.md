@@ -1,9 +1,9 @@
 # TP04-Big Data Environment Deployment with Docker
 
 ## Dataset Description
-- Rows: 3,067,681
+- Rows: 8086
 - Columns: 13
-
+- Missing Values: 16 
 ## Project Structure
 ```text
 Tp4/
@@ -17,4 +17,4 @@ Tp4/
 └── README.md
 ```
 ## Notice:
-About data because github doesn't allowed file more then 25Mb unless using some commands i uploaded one that fit the required size and it's the same logic same coloumns everything
+I tested on another Dataset has more than 3M Rows and 13 Columns ,but it exceeds the size 25Mb to upload it to github,so i choose another data.csv that has 8086 and te same num of columns
