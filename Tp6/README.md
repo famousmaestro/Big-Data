@@ -27,7 +27,7 @@ Open **Terminal 1** (Spark Consumer):
 ```bash
 spark-submit   --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.3   spark_stream.py
 ```
-i have created spark-temp in D partition
+i have created spark-temp in D partition,because C partition run out of Memory
 ```bash
 mkdir D:\spark-temp
 spark-submit --conf "spark.local.dir=D:\spark-temp" --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.3 spark_stream.py
